@@ -1,0 +1,136 @@
+
+#comp-kkpgkkq8 {
+    --bg-overlay-color: rgb(var(--color_11));
+    --bg-gradient: none;
+    --fill-layer-image-opacity: 1;
+    --fill-layer-background-media-position: fixed;
+    --fill-layer-background-media-pointer-events: none;
+    width: 100%;
+    --column-width: 980px;
+    --column-flex: 980;
+}
+#comp-kkpgkkq8 {
+    width: 980px;
+}
+body:not(.device-mobile-optimized) ._1uldx>:first-child {
+    margin-left: 0;
+}
+body:not(.device-mobile-optimized) ._1uldx>* {
+    flex: var(--column-flex) 1 0%;
+    min-width: 0;
+    margin-top: var(--padding);
+    margin-bottom: var(--padding);
+    position: relative;
+    left: 0;
+    top: 0;
+    margin-left: var(--margin);
+}
+._1vNJf {
+    position: relative;
+    overflow: visible;
+}
+a, abbr, acronym, address, applet, b, big, blockquote, body, button, caption, center, cite, code, dd, del, dfn, div, dl, dt, em, fieldset, font, footer, form, h1, h2, h3, h4, h5, h6, header, html, i, iframe, img, ins, kbd, label, legend, li, nav, object, ol, p, pre, q, s, samp, section, small, span, strike, strong, sub, sup, table, tbody, td, tfoot, th, thead, title, tr, tt, u, ul, var {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+div {
+    display: block;
+}
+#comp-kkpgkkny {
+    --bg-overlay-color: transparent;
+    --bg-gradient: none;
+    --padding: 0px;
+    --margin: 0px;
+    min-width: 980px;
+    --firstChildMarginTop: -1px;
+    --lastChildMarginBottom: -1px;
+}
+body:not(.device-mobile-optimized) ._3d64y {
+    display: var(--display);
+    --display: flex;
+}
+[data-mesh-id$=-gridContainer]>*, [data-mesh-id$=-rotated-wrapper]>*, [data-mesh-id$=inlineContent]>:not([data-mesh-id$=-gridContainer]) {
+    pointer-events: auto;
+}
+[data-mesh-id$=centeredContent], [data-mesh-id$=form], [data-mesh-id$=inlineContent] {
+    position: relative;
+    pointer-events: none;
+}
+._1KV2M {
+    pointer-events: none;
+}
+#SITE_PAGES {
+    --transition-duration: 700ms;
+}
+#PAGES_CONTAINER {
+    left: 0;
+    margin-left: 0;
+    width: 100%;
+    min-width: 980px;
+    --pinned-layer-in-container: 50;
+    --above-all-in-container: 49;
+}
+#masterPage {
+    --pinned-layers-in-page: 1;
+}
+body {
+    font-size: 10px;
+    font-family: Arial,Helvetica,sans-serif;
+}
+:root {
+    --color_0: 255,255,255;
+    --color_27: 243,167,143;
+    --color_1: 255,255,255;
+    --color_2: 0,0,0;
+    --color_3: 237,28,36;
+    --color_4: 0,136,203;
+    --color_5: 255,203,5;
+    --color_6: 114,114,114;
+    --color_7: 176,176,176;
+    --color_8: 255,255,255;
+    --color_28: 237,88,41;
+    --color_9: 114,114,114;
+    --color_10: 176,176,176;
+    --color_11: 255,255,255;
+    --color_12: 232,230,230;
+    --color_13: 109,109,109;
+    --color_14: 70,70,70;
+    --color_15: 0,0,0;
+    --color_16: 227,230,252;
+    --color_17: 101,120,244;
+    --color_18: 60,83,244;
+    --color_29: 158,59,27;
+    --color_19: 40,55,163;
+    --color_20: 20,28,81;
+    --color_21: 208,237,241;
+    --color_22: 140,207,221;
+    --color_23: 61,175,197;
+    --color_24: 70,104,111;
+    --color_25: 35,52,55;
+    --color_30: 79,29,14;
+    --color_31: 253,248,172;
+    --color_32: 251,243,131;
+    --color_33: 249,233,11;
+    --color_34: 166,155,7;
+    --color_35: 83,78,4;
+    --font_0: normal normal normal 68px/1.4em rodin-demi-bold,'ms gothic','ヒラギノ角ゴ pro w3','hiragino kaku gothic pro',osaka,sans-serif;
+    --font_1: normal normal normal 16px/1.4em din-next-w01-light,din-next-w02-light,din-next-w10-light,sans-serif;
+    --font_2: normal normal normal 58px/1.4em rodin-demi-bold,'ms gothic','ヒラギノ角ゴ pro w3','hiragino kaku gothic pro',osaka,sans-serif;
+    --font_3: normal normal normal 32px/1.4em rodin-demi-bold,'ms gothic','ヒラギノ角ゴ pro w3','hiragino kaku gothic pro',osaka,sans-serif;
+    --font_4: normal normal normal 26px/1.4em rodin-demi-bold,'ms gothic','ヒラギノ角ゴ pro w3','hiragino kaku gothic pro',osaka,sans-serif;
+    --font_5: normal normal normal 18px/1.4em rodin-demi-bold,'ms gothic','ヒラギノ角ゴ pro w3','hiragino kaku gothic pro',osaka,sans-serif;
+    --font_6: normal normal normal 13px/1.4em rodin-demi-bold,'ms gothic','ヒラギノ角ゴ pro w3','hiragino kaku gothic pro',osaka,sans-serif;
+    --font_7: normal normal normal 32px/1.4em rodin-demi-bold,'ms gothic','ヒラギノ角ゴ pro w3','hiragino kaku gothic pro',osaka,sans-serif;
+    --font_8: normal normal normal 16px/1.8em rodin-demi-bold,'ms gothic','ヒラギノ角ゴ pro w3','hiragino kaku gothic pro',osaka,sans-serif;
+    --font_9: normal normal normal 13px/1.4em rodin-demi-bold,'ms gothic','ヒラギノ角ゴ pro w3','hiragino kaku gothic pro',osaka,sans-serif;
+    --font_10: normal normal normal 12px/1.4em din-next-w01-light,din-next-w02-light,din-next-w10-light,sans-serif;
+    --wix-ads-height: 0px;
+    --wix-ads-top-height: 0px;
+    --site-width: 980px;
+    --above-all-z-index: 100000;
+}
